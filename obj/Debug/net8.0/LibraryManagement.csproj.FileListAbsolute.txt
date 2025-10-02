@@ -28,3 +28,4 @@
 /Users/abdullaseed/Desktop/Side_Projects/DOT_NET_PROJECTS/LibraryManagement/obj/Debug/net8.0/LibraryManagement.pdb
 /Users/abdullaseed/Desktop/Side_Projects/DOT_NET_PROJECTS/LibraryManagement/obj/Debug/net8.0/LibraryManagement.genruntimeconfig.cache
 /Users/abdullaseed/Desktop/Side_Projects/DOT_NET_PROJECTS/LibraryManagement/obj/Debug/net8.0/ref/LibraryManagement.dll
+/Users/abdullaseed/Desktop/Side_Projects/DOT_NET_PROJECTS/LibraryManagement/obj/Debug/net8.0/LibraryManagement.sourcelink.json
